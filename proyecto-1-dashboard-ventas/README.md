@@ -34,13 +34,13 @@ Analizar ventas históricas y construir un dashboard con indicadores para la tom
 > Las imágenes se generan al ejecutar el notebook y se guardan en `reports/`.
 
 **Ingreso por sucursal**
-![Ingreso por sucursal](reports/chart_ingreso_por_sucursal.png)
+![Ingreso por sucursal](reports/ingreso_por_sucursal.png)
 
 **Top platillos por ingreso**
-![Top platillos](reports/chart_top_platillos.png)
+![Top platillos](reports/top_platillos_por_ingreso.png)
 
 **Ventas por hora**
-![Ventas por hora](reports/chart_ventas_por_hora.png)
+![Ventas por hora](reports/ventas_por_hora.png)
 
 ---
 
