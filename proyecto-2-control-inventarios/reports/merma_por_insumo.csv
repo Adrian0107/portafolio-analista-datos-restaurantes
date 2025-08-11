@@ -1,0 +1,6 @@
+insumo,unidad,consumo_teorico,salida_real,costo_promedio,consumo_teorico_aj,merma_unidades,merma_%,costo_merma_mxn
+Carne de res,kg,1.44,12,160.0,1.44,10.56,733.3333333333334,1689.6000000000001
+Papas,kg,3.0,15,25.0,3.0,12.0,400.0,300.0
+Aceite,lt,0.36,6,45.0,0.36,5.64,1566.6666666666665,253.79999999999998
+Pan para hamburguesa,pz,8.0,60,3.5,8.0,52.0,650.0,182.0
+Lechuga,pz,1.0,18,8.0,1.0,17.0,1700.0,136.0
