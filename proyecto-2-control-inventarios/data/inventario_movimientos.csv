@@ -1,0 +1,6 @@
+fecha,sucursal,insumo,unidad,entrada,salida,costo_unitario_mxn
+2025-06-01,Centro,Carne de res,kg,20,12,160.0
+2025-06-01,Centro,Lechuga,pz,30,18,8.0
+2025-06-01,Centro,Pan para hamburguesa,pz,100,60,3.5
+2025-06-02,Norte,Papas,kg,25,15,25.0
+2025-06-02,Norte,Aceite,lt,10,6,45.0

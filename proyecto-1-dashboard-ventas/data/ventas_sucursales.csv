@@ -1,0 +1,11 @@
+fecha,sucursal_id,sucursal,hora,platillo,categoria,cantidad,precio_unitario_mxn,total_mxn
+2025-06-01,SUC-01,Centro,12:00,Hamburguesa Clásica,Comidas,3,95,285
+2025-06-01,SUC-01,Centro,13:00,Papas Fritas,Acompañamientos,5,35,175
+2025-06-01,SUC-02,Norte,19:00,Tacos de Arrachera,Comidas,4,110,440
+2025-06-02,SUC-03,Sur,09:00,Café Americano,Bebidas,10,29,290
+2025-06-02,SUC-04,Río,21:00,Malteada Vainilla,Bebidas,2,55,110
+2025-06-03,SUC-05,Aeropuerto,14:00,Ensalada César,Comidas,2,89,178
+2025-06-03,SUC-01,Centro,20:00,Alitas BBQ,Comidas,6,79,474
+2025-06-04,SUC-02,Norte,12:00,Refresco 600ml,Bebidas,8,28,224
+2025-06-04,SUC-03,Sur,13:00,Hamburguesa Clásica,Comidas,5,95,475
+2025-06-05,SUC-04,Río,18:00,Papas Fritas,Acompañamientos,7,35,245

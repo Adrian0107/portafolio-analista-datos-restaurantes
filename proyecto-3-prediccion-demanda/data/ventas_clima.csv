@@ -1,0 +1,6 @@
+fecha,dia_semana,hora,sucursal,temp_c,lluvia_mm,eventos,ventas_unidades,ventas_mxn
+2025-06-01,Domingo,12:00,Centro,36,0,0,45,3600
+2025-06-01,Domingo,13:00,Centro,37,0,0,58,4970
+2025-06-02,Lunes,12:00,Centro,35,0,0,30,2550
+2025-06-05,Jueves,19:00,Norte,33,2,1,62,5400
+2025-06-06,Viernes,20:00,Norte,32,0,0,75,6800
