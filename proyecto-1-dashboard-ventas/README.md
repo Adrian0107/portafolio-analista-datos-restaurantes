@@ -26,8 +26,6 @@ Analizar ventas históricas y construir un dashboard con indicadores para la tom
 - **Comparativo por sucursal** (ingresos totales y participación).  
 - **Crecimiento vs. periodo anterior** *(si se parametriza rango de fechas)*.
 
-> Las medidas se calculan con **Pandas** y se visualizan con **Matplotlib**. Los CSV quedan listos para usarse en **Excel/Power BI**.
-
 ---
 
 ## 🧾 Resultados (gráficas)
@@ -52,26 +50,12 @@ Analizar ventas históricas y construir un dashboard con indicadores para la tom
 - `reports/chart_top_platillos.png`  
 - `reports/chart_ventas_por_hora.png`
 
-> Estos archivos alimentan el **dashboard en Excel/Power BI** (opcional):
-> - `reports/dashboard_excel.xlsx`  
-> - `reports/dashboard_powerbi.pbix`
-
 ---
 
-## 🚀 Cómo reproducir
-1. (Opcional) Actualiza o reemplaza `data/ventas_sucursales.csv`.  
-2. Abre `notebooks/analisis_ventas.ipynb` y ejecuta todas las celdas.  
-3. Revisa `reports/` para ver CSV e imágenes.  
-4. (Opcional) Conecta los CSV a tu dashboard de Excel/Power BI.
-
----
-
-## ✅ Hallazgos tipo (para guía de interpretación)
+## ✅ Hallazgos (para guía de interpretación)
 - **Productos estrella:** identifica los 5 con mayor contribución al ingreso.  
 - **Horarios pico:** concentra personal e inventario en las horas de mayor ingreso.  
 - **Brecha entre sucursales:** prioriza acciones en las de menor rendimiento (promos, entrenamiento, surtido).  
-
-> **Nota:** Los hallazgos exactos dependen del CSV cargado. Vuelve a ejecutar el notebook cuando cambies la data.
 
 ---
 
@@ -82,5 +66,4 @@ Excel/Power Query, Power BI, Python (Pandas/Matplotlib).
 
 ## 📝 Notas
 - Los datos son **ficticios** y se usan con fines educativos.  
-- Ajusta columnas/KPIs según tu operación real (por ejemplo, si deseas medir ticket por número real de tickets del POS).
 
