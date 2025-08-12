@@ -1,9 +1,14 @@
 # Proyecto 2 — Control de Inventarios y Merma
 
 > **Resumen ejecutivo**
-> - Se cruza **recetas + ventas + inventario** para estimar **consumo teórico** y comparar contra **salida real**.
-> - Se calculan **merma (unidades)**, **merma %** y **costo de merma (MXN)** por insumo.
-> - Con el dataset de ejemplo, **Carne de res** concentra la mayor parte del **costo** de merma; **Lechuga/Aceite** tienen **%** de merma elevado (foco de proceso).
+> - **Costo total de merma:** $2,561 MXN
+> - **Mayor costo de merma:** Carne de res ($1,690 MXN)
+> - **Mayor % de merma:** Lechuga (1700.0%)
+> - **Insumos con merma positiva:** 5
+> - **Ahorro potencial (–20% merma):** $512 MXN
+
+**Acciones prioritarias:** atacar Carne de res para ahorro inmediato; estandarizar proceso en Lechuga (rotación, manejo y controles).
+
 
 ---
 
