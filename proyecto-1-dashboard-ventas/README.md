@@ -52,7 +52,7 @@ Analizar ventas históricas y construir un dashboard con indicadores para la tom
 
 ---
 
-## ✅ Hallazgos (para guía de interpretación)
+## ✅ Recomendaciones operativas
 - **Productos estrella:** identifica los 5 con mayor contribución al ingreso.  
 - **Horarios pico:** concentra personal e inventario en las horas de mayor ingreso.  
 - **Brecha entre sucursales:** prioriza acciones en las de menor rendimiento (promos, entrenamiento, surtido).  
